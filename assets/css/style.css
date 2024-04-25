@@ -1,0 +1,49 @@
+/*------StyleMundoGG----*/
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #AEA8AD;
+}
+
+.header {
+    height: 7em;
+    font-size: 1em;
+    padding: 3em;
+    background-image: url(https://images.unsplash.com/photo-1531594896955-305cf81269f1?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+    background-size: cover;
+    background-position: top;
+}
+.header h1 {
+    margin: 0px;
+    font-weight: 400;
+    color: #AEA8AD;
+}
+.header p {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #AEA8AD;
+}
+
+.products {
+    width: 60%;
+    margin: auto;
+    background-color: #AEA8AD;
+    }
+
+.products td {
+    width: 50%;
+    padding: 2em;
+ }
+.products img {
+    width: 100%;
+    border: solid 1px #1B1E1F;
+}
+
+.footer {
+    height: 3em;
+    line-height: 3em;
+    background-color: #5E7682;
+    color: white;
+    text-align: center;
+    font-weight: 900;
+    display: block;
+}
